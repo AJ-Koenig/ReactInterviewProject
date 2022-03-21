@@ -2,7 +2,7 @@
 
 Hello and welcome to App Snap Pop's interview project for NextJS! In this project you will demonstrate your abilities with this framework, and your compatibility with our team.
 
-In this README, we'll define a set of task which you may complete however you like. This means, you may use Google, ask me questions, install any package, and reuse code from other projects (just remember to put a comment referencing any external sources).
+In this README, we'll define a set of tasks which you may complete however you like. This means you may use Google, ask me questions, install any package, and reuse code from other projects (just remember to put a comment reference external sources).
 
 You are also allowed to delete and add new code as you see fit! After finishing the tasks, you'll be asked to open a peer review on GitHub.
 
@@ -51,4 +51,4 @@ The mobile design is:
 ## Workflow Test
 
 1. Run the linter and resolve all issues
-2. Create a PR for this work 
+2. Create a PR for this work
